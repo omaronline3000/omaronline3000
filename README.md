@@ -2,7 +2,7 @@
 
 # Hi, I'm Omar Ibrahim 👋
 
-### Computer Science Student | Backend Development with .NET
+### Senior Computer Science Student | Backend Development with .NET
 
 I’m a Computer Science student at Assiut University focused on building reliable backend applications with **C#, ASP.NET Core, Entity Framework Core, and SQL Server**.
 
